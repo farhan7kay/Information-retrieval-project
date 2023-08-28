@@ -1,7 +1,5 @@
 # information-retrieval-project
 
-Searching the Internet...
-
 I had trouble searching the internet, so I'm going to continue without it.Sure! Here's a detailed README file for the project:
 
 # Project Name
